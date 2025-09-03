@@ -24,6 +24,6 @@
  
     Source: Kaggle.com
     Data on different mobile brands in India, including details on their location, prices, sales, customer age,Customer Ratings as well as payment method around        the world for each month of 2021 to 2024
-6. Screenshots / Demos
+6. Dashboard preview
 
-   https://github.com/rimesh2308/Mobile_Sales_Analysis-Dashboard/blob/main/image.png
+  Link=https://app.powerbi.com/groups/me/list?experience=power-bi&subfolderId=44262
