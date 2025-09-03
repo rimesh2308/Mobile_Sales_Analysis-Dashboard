@@ -11,19 +11,19 @@
    • Delivered insights on top-performing products, customer preferences, and outlet contribution through bar charts, line charts, and slicers.
    • Optimized dashboard with dynamic filters and responsive design for better decision-making and user experience.
 
-4. Tech Stack
- 
-  The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+3. Tech Stack
+    
+     The dashboard was built using the following tools and technologies:
+   • 📊 Power BI Desktop – Main data visualization platform used for report creation.
+   • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+   • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+   • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+   • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 5. Data Source
  
-   Source: Kaggle.com
-   Data on different mobile brands in India, including details on their location, prices, sales, customer age,Customer Ratings as well as payment method around the    world for each month of 2021 to 2024
+    Source: Kaggle.com
+    Data on different mobile brands in India, including details on their location, prices, sales, customer age,Customer Ratings as well as payment method around        the world for each month of 2021 to 2024
 6. Screenshots / Demos
 
-  link=https://github.com/rimesh2308/Mobile_Sales_Analysis-Dashboard/blob/main/image.png
+   https://github.com/rimesh2308/Mobile_Sales_Analysis-Dashboard/blob/main/image.png
